@@ -6,3 +6,5 @@ Command line only.
 NET 4.5 required.
 
 See e_Readme.rtf for details.
+
+# Changelog
